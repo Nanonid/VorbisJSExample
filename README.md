@@ -1,6 +1,8 @@
 # VorbisJSExample
 Working example from original author. [link](http://garciat.com/libvorbis.js/demos/microphone-recorder.html)
 
+Browsers typically don't allow access to the microphone from file://, so use a simple HTTP server.
+
 ##To Use with current bower with Python http server @ 9100
 ```bash
    git clone https://github.com/Nanonid/VorbisJSExample
