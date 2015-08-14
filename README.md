@@ -13,3 +13,5 @@ Working example from original author. [link](http://garciat.com/libvorbis.js/dem
    bower install libvorbis.js
    python -m SimpleHTTPServer 9100
 ```
+
+![Working example](/vorbis_sshot.png?raw=true "Screen shot of working example")
